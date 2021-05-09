@@ -2,5 +2,5 @@
 layout: slide
 "welcome to our second slide!"
 ---
-your text
+hi there
 "use left arrow to go back!"
